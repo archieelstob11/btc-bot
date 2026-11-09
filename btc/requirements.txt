@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+ccxt
+scikit-learn
+xgboost
+joblib
+python-dotenv
+pytest
+pyarrow
+
